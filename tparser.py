@@ -33,7 +33,7 @@ def hh_parse(base_url,headers):
         print(len(divs))
         print('Ok')
     else:
-        print('ERROR')
+        print('ERRORsssss')
 
 
 hh_parse(base_url,headers)
